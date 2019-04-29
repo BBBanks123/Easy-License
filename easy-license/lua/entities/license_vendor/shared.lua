@@ -1,0 +1,9 @@
+ENT.Type = "ai"
+ENT.Base = "base_ai"
+ENT.PrintName = "License Vendor"
+ENT.Author = "BBBanks"
+ENT.AdminOnly = true
+ENT.Purpose = "Gives players access to licenses when the mayor is not online."
+ENT.Instructions = "Place me in the world and perma prop me."
+ENT.Category = "Easy Licenses"
+ENT.Spawnable = true
